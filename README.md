@@ -1,8 +1,8 @@
 # hyperparameter-tuning
 
 ---
-Search Algorithms
+## Search Algorithms
 docs > AutoML_Hyperparameter_Tuning.pptx
 
 ---
-Install katib
+## Install katib
