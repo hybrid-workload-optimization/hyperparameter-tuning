@@ -1,0 +1,5 @@
+ExperimentCreated = "Created"
+ExperimentRunning = "Running"
+ExperimentRestarting = "Restarting"
+ExperimentSucceeded = "Succeeded"
+ExperimentFailed = "Failed"
